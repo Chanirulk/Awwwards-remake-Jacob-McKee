@@ -10,4 +10,4 @@ Awwwards-remake-Jacob McKee HTML5 CSS3 JAVASCRIPT
 
 Follow on instagram - @chaniru.lk 
 For more designs and inspiring website development /
-awwwards remakes :-
+awwwards remakes :-)
