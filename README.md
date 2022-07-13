@@ -4,7 +4,7 @@ Awwwards-remake-Jacob McKee HTML5 CSS3 JAVASCRIPT
 
 # This Website was crafted by - @chaniru.lk - instagram
 
-![Scrrenshot](./images/sos.png)
+![Screenshot](./images/sos.png)
 
 # About the AUTHOR
 
